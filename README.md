@@ -1,4 +1,4 @@
-Hi-Kod-6.Hafta
+#Hi-Kod-6.Hafta
 Bu repo, Hi-Kod 2.0 Mobil Uygulama Geliştirme 4. Atölye için 6. hafta ödevleri için oluşturulmuştur. Amaç, Dart dilinde gelişerek Flutter'a daha hazırlıklı bir şekilde yaklaşmaktır ve Flutter'da uzmanlaşarak mobil uygulama geliştirme becerilerini artırmaktır.
 
 📚 Proje Hakkında
