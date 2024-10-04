@@ -21,7 +21,10 @@ Aşağıdaki adımları izleyerek projeyi çalıştırabilirsiniz:
 ### Hafta 6 Ödev 
 
 Soru 1 `Liste Elemanlarını Toplama`: Bir fonksiyon yazınız, bu fonksiyon bir liste alacak ve listedeki tüm sayıların toplamını döndürmesi gerekiyor.
+
 Soru 2 `Tek Sayıları Filtreleme`: Bir fonksiyon oluşturunuz, bu fonksiyon bir liste alacak ve sadece tek sayılardan oluşan yeni bir liste döndürmesi gerekiyor.
+
 Soru 3 `Listeyi Ters Çevirme`: Bir fonksiyon yazınız, bu fonksiyon bir liste alacak ve listenin elemanlarını ters çevirerek yeni bir liste döndürmesi gerekiyor.
+
 
 Atölye Sağlayıcı: Beyza Yalvaç
