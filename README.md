@@ -14,7 +14,7 @@ Aşağıdaki adımları izleyerek projeyi çalıştırabilirsiniz:
 1. `dart` dosyasını açın.
 2. Ödevler üzerinde değişiklik yaparak kodu deneyin.
 
-## ✏️ Ödev-1
+## ✏️ Ödev-2
 
 ### Kodluyoruz - Hi Kod  
 ### Mobil Uygulama Geliştirme Atölyesi 
